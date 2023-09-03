@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodheewasuep.github.io/sitemap.xml
